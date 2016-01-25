@@ -1,0 +1,9 @@
+name: MineMoba
+author: Coolade/Simba
+version: 1.0.0
+main: org.nathanbraun.minemoba.MineMoba
+
+commands:
+  minemoba:
+    aliases: [mm,moba]
+    usage: /<command>
